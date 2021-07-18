@@ -1,0 +1,15 @@
+{
+  "name": "pi",
+  "version": "0.0.1",
+  "description": "Utility for calculate PI to nth digits",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "gerpea",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "commander": "^6.1.0",
+    "is-valid-path": "^0.1.1"
+  }
+}
